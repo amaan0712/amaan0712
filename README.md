@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Amaan </h1>
 
-<!--
-**amaan0712/amaan0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+   B.Tech in Computer Science (AI & ML) | VIT Bhopal University
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  About Me
+
+-  **Branch:** Computer Science (AI & ML)
+-  **Year:** 1st Year (2025–2029)
+-  **From:** Prayagraj, Uttar Pradesh
+-  **Interests:** Artificial Intelligence, Machine Learning, Python, Linux
+
+###  What I Hope to Learn
+
+> I hope to build a strong foundation in AI and ML — from understanding the math behind algorithms to deploying real-world models that solve meaningful problems.
+
+---
